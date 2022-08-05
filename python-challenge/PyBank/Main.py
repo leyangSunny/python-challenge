@@ -1,4 +1,4 @@
-from audioop import avg
+# modules
 import os
 import csv
 import statistics
